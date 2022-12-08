@@ -1,13 +1,8 @@
 #include<stdio.h>
 /**
- *
- *  *main - Prints the sizes of different variables in bytes
- *
- *   *
- *
- *    *Return: 0
- *
- *     */
+ *main - Prints the sizes of different variables bytes
+ *Return: 0
+ */
 int main(void)
 {
 		printf("Size of a char: %i byte(s)\n", sizeof(char));
