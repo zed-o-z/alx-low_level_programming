@@ -6,7 +6,7 @@
  *each time it is executed.
  *Description: This will print the number stored in n and say if it's positive,
  *negative, or zero.
- *Retur
+ *Return: 0
  */
 int main(void)
 {

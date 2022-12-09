@@ -2,7 +2,7 @@
 /**
  *main - prints numbers
  *Description: Prints 0-10 using putchar function and no char variables
- *Return:
+ *Return: 0
  */
 int main(void)
 {
