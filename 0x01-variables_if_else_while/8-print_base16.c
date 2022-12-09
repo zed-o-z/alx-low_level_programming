@@ -5,39 +5,19 @@
  *Return: 0
 */
 int main(void)
-
 {
-
-		int n = 0;
-
-			int l = 'a';
-
-
-
-				while (n < 10)
-
-						{
-
-									putchar('0' + n);
-
-											n++;
-
-												}
-
-
-
-					while (l <= 'f')
-
-							{
-
-										putchar(l);
-
-												l++;
-
-													}
-
-						putchar('\n');
-
-							return (0);
-
+int n = 0;
+int l = 'a';
+while (n < 10)
+{
+putchar('0' + n);
+n++;
+}
+while (l <= 'f')
+{
+putchar(l);
+l++;
+}
+putchar('\n');
+return (0);
 }
