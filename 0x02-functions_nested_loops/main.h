@@ -1,12 +1,34 @@
-int _putchar(char c);
-void print_alphabet(void);
-void print_alphabet_x10(void);
-int _islower(int c);
-int _isalpha(int c);
-int print_sign(int n);
-int _abs(int);
-int print_last_digit(int n);
-void jack_bauer(void);
-void times_table(void);
-int add(int n, int m);
-void print_to_98(int n);
+nclude "_putchar.h"
+
+/**
+ *
+ *  * main - calls the function _putchar
+ *
+ *   *
+ *
+ *    * Description: programs that prints Holberton, followed by a new line
+ *
+ *     * Return: 0
+ *
+ *      */
+
+
+
+int main(void)
+
+{
+
+		_putchar('_');
+
+			_putchar('p');
+
+				_putchar('u');
+					_putchar('t');
+						_putchar('c');
+							_putchar('h');
+								_putchar('a');
+									_putchar('r');
+										_putchar('t');
+										_putchar('\n');
+												return (0);
+}
