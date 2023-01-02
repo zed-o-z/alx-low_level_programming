@@ -20,7 +20,7 @@ s++;
 while (*haystack)
 {
 for (i = 0; needle[i]; i++)
-{															
+{
 if (haystack[i] != needle[i])
 break;
 }
